@@ -40,16 +40,26 @@
 
 ## Задание 1
 ### Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
-![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-22-10.png)
-![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(4).png)
-![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-22-43.png)
-![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(5).png)
-
-
+![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-56-38.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(7).png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-56-51.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(8).png)
 
 ## Задание 2
 ### Визуализируйте параметры оружия в таблице.Используйте шаблон таблицы для визуализации оружия игры Save RTF. Постройте примеры для следующих математических величин (см. пример в презентации):
-###- Среднеквадратическое отклонение (СКО)
+1. Среднеквадратическое отклонение (СКО) и Разброс урона оружия:
+#Пистолет 
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%202.png) ![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%201.png)
+Винтовка
+Дробовик
+Снайперская
+Пулемет
+Нож
+Бензопила
+Молот
+Лук
+Огнемет
+Граната
 ###- Разброс урона оружия
 ###- Вариативность времени отклика игрока (реакция на события)
 
