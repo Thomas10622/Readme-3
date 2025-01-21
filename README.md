@@ -58,7 +58,7 @@
 ### Дробовик
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/Дробовик%202.png)
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/Дробовик%201.png)
-### Снайперская
+### Снайперска
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/Снайперка%202.png)
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/Снайперка%201.png)
 ### Пулемет
