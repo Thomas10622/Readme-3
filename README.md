@@ -40,30 +40,52 @@
 
 ## Задание 1
 ### Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
-![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-56-38.png)
-![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(7).png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_06-09-50.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(9).png)
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/2025-01-21_05-56-51.png)
 ![image](https://github.com/Thomas10622/Readme-3/blob/main/chart%20(8).png)
 
 ## Задание 2
 ### Визуализируйте параметры оружия в таблице.Используйте шаблон таблицы для визуализации оружия игры Save RTF. Постройте примеры для следующих математических величин (см. пример в презентации):
-1. Среднеквадратическое отклонение (СКО) и Разброс урона оружия:
-#Пистолет 
-![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%202.png) ![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%201.png)
-Винтовка
-Дробовик
-Снайперская
-Пулемет
-Нож
-Бензопила
-Молот
-Лук
-Огнемет
-Граната
-###- Разброс урона оружия
-###- Вариативность времени отклика игрока (реакция на события)
+1. Среднеквадратическое отклонение (СКО) и разброс урона оружия:
+   
+### Пистолет 
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Пистолет%201.png)
+### Винтовка
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Винтовка%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Винтовка%201.png)
+### Дробовик
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Дробовик%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Дробовик%201.png)
+### Снайперская
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Снайперка%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Снайперка%201.png)
+### Пулемет
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Пулемет%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Пулемет%201.png)
+### Нож
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Нож%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Нож%201.png)
+### Утюг
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Утюг%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Утюг%201.png)
+### Молот
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Молот%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Молот%201.png)
+### Лук
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Лук%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Лук%201.png)
+### Огнемет
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Огнемет%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Огнемет%201.png)
+### Граната
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Граната%202.png)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Граната%201.png)
 
-Визуализация для каждого вида оружия представлена в таблице, ниже представлены таблицы с характеристиками оружий: https://docs.google.com/spreadsheets/d/1rti6hc9iJIuXRTI3-9dHaVUhGj232B1GFS53MN1Kk8E/edit?usp=sharing
+2. Вариативность времени отклика игрока (реакция на события)
+![image](https://github.com/Thomas10622/Readme-3/blob/main/Вариативность%20времени%20отклика%20игрока.png)
+
 
 
 ## Выводы
